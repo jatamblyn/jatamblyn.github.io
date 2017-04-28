@@ -134,7 +134,7 @@ ul {
 
 .profile {
 
-  background-image: url(../images/Me-img.jpg);
+  background-image: url(../images/Me-img.JPG);
   background-size: cover;
   background-position: center;
   display: block;
@@ -308,7 +308,7 @@ ul {
 
 .about-img {
   margin:0 auto;
-   background-image: url(../images/army.jpg);
+   background-image: url(../images/army.JPG);
   background-size: cover;
   display: block;
   float:right;
