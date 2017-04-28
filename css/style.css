@@ -238,9 +238,9 @@ ul {
 
 .rw-content-1 {
   background-image: url('../images/inn-logo.png');
-  background-size: cover;
+  background-size: contain;
   display: inline-block;
- background-position: 49%;
+  background-position: 49%;
   height: 250px;
   width: 250px;
   margin-top:20px;
