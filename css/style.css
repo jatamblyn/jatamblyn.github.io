@@ -240,7 +240,7 @@ ul {
   background-image: url('../images/inn-logo.png');
   background-size: cover;
   display: inline-block;
- 
+ background-position: 49%;
   height: 250px;
   width: 250px;
   margin-top:20px;
