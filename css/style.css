@@ -226,7 +226,12 @@ ul {
 }
 
 .rw-content {
-  
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+    transition: opacity .3s ease;
+    margin-left: 40px
 
 }
 
@@ -252,7 +257,7 @@ ul {
   background-image: url('../images/cpt-panda-logo.png');
   background-size: cover;
   display: inline-block;
- 
+  background-position:49%;
   height: 250px;
   width: 250px;
   margin-top:20px;
@@ -264,7 +269,7 @@ ul {
   background-image: url('../images/Habitat-mockup.png');
   background-size: cover;
   display: inline-block;
- 
+  background-position:49%;
   height: 250px;
   width: 250px;
   margin-top:20px;
