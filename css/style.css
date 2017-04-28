@@ -134,7 +134,7 @@ ul {
 
 .profile {
 
-  background-image: url(../images/Me-img.JPG);
+  background-image: url(../images/me.jpg);
   background-size: cover;
   background-position: center;
   display: block;
@@ -227,7 +227,7 @@ ul {
 
 .rw-content {
   display: inline-block;
-  background-color:#333;
+ 
   height: 250px;
   width: 250px;
   margin-top:20px;
@@ -236,8 +236,25 @@ ul {
 
 }
 
+
+
 .rw-content:hover {
   opacity: .75;
+}
+
+.rw-content-1 {
+  background-image: url('../images/inn-logo.png');
+  background-size: cover;
+}
+
+.rw-content-2 {
+  background-image: url('../images/cpt-panda-logo.png');
+  background-size: cover;
+}
+
+.rw-content-3 {
+  background-image: url('../images/Habitat-mockup.png');
+  background-size: cover;
 }
 
 .social-container {
