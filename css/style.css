@@ -226,13 +226,7 @@ ul {
 }
 
 .rw-content {
-  display: inline-block;
- 
-  height: 250px;
-  width: 250px;
-  margin-top:20px;
- 
-  transition: opacity .3s ease;
+  
 
 }
 
@@ -245,16 +239,37 @@ ul {
 .rw-content-1 {
   background-image: url('../images/inn-logo.png');
   background-size: cover;
+  display: inline-block;
+ 
+  height: 250px;
+  width: 250px;
+  margin-top:20px;
+ 
+  transition: opacity .3s ease;
 }
 
 .rw-content-2 {
   background-image: url('../images/cpt-panda-logo.png');
   background-size: cover;
+  display: inline-block;
+ 
+  height: 250px;
+  width: 250px;
+  margin-top:20px;
+ 
+  transition: opacity .3s ease;
 }
 
 .rw-content-3 {
   background-image: url('../images/Habitat-mockup.png');
   background-size: cover;
+  display: inline-block;
+ 
+  height: 250px;
+  width: 250px;
+  margin-top:20px;
+ 
+  transition: opacity .3s ease;
 }
 
 .social-container {
