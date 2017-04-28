@@ -511,14 +511,14 @@ ul {
   height: 2.5em;
   right: 0;
   border-radius: 50%;
-  border: 3px solid tomato;
+  border: 3px solid #333;
   z-index: 10;
 }
 
 .timeline-icon i {
   font-size: 2.5em;
   line-height: 1.5;
-  color: tomato;
+  color: #333;
 }
 .icon-flipped {
     transform: scaleX(-1);
